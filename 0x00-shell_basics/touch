@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /bin/ls _s_ 13-symbolic_link
+mkdir -p welcome/to/school 102-tree
